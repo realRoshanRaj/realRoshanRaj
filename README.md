@@ -3,7 +3,7 @@
 ### Langauges
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realRoshanRaj&count_private=true&theme=dracula&show_icons=true)-->
 
-[![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realRoshanRaj&theme=gotham)](https://github.com/realRoshanRaj/github-readme-stats)
+<!--[![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realRoshanRaj&theme=gotham)](https://github.com/realRoshanRaj/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realRoshanRaj&theme=gotham)](https://github.com/realRoshanRaj)
 
